@@ -1,0 +1,12 @@
+footer {
+    position: absolute;
+    background: #9acfea;
+    width: 100%;
+    height: 40px;
+    bottom: 0px;
+}
+
+.inner-footer{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
